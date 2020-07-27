@@ -1,0 +1,14 @@
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\bin\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.deps.json
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\bin\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.dll
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\bin\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.pdb
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\bin\Debug\netcoreapp3.1\CaWorkshop.Application.dll
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\bin\Debug\netcoreapp3.1\CaWorkshop.Domain.dll
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\bin\Debug\netcoreapp3.1\CaWorkshop.Application.pdb
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\bin\Debug\netcoreapp3.1\CaWorkshop.Domain.pdb
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\obj\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.csprojAssemblyReference.cache
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\obj\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.AssemblyInfoInputs.cache
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\obj\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.AssemblyInfo.cs
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\obj\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\obj\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.csproj.CopyComplete
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\obj\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.dll
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Infrastructure\obj\Debug\netcoreapp3.1\CaWorkshop.Infrastructure.pdb

@@ -1,0 +1,12 @@
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\bin\Debug\netstandard2.1\CaWorkshop.Application.deps.json
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\bin\Debug\netstandard2.1\CaWorkshop.Application.dll
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\bin\Debug\netstandard2.1\CaWorkshop.Application.pdb
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\bin\Debug\netstandard2.1\CaWorkshop.Domain.dll
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\bin\Debug\netstandard2.1\CaWorkshop.Domain.pdb
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\obj\Debug\netstandard2.1\CaWorkshop.Application.csprojAssemblyReference.cache
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\obj\Debug\netstandard2.1\CaWorkshop.Application.AssemblyInfoInputs.cache
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\obj\Debug\netstandard2.1\CaWorkshop.Application.AssemblyInfo.cs
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\obj\Debug\netstandard2.1\CaWorkshop.Application.csproj.CoreCompileInputs.cache
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\obj\Debug\netstandard2.1\CaWorkshop.Application.csproj.CopyComplete
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\obj\Debug\netstandard2.1\CaWorkshop.Application.dll
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Application\obj\Debug\netstandard2.1\CaWorkshop.Application.pdb
