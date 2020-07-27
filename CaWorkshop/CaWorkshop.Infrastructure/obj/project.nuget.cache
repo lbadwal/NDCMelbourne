@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "E7obTJF1mDlKfMDzQUKqudE6pp+RwOk4mIIzRalOLqebK3kYhTll4i9juqc+Q7GTebUqL8Rvp286xcGraZTLwA==",
+  "dgSpecHash": "Avvj7q4OdVVjMgRLg5noH2V3jVfm8hWqyzkYa/NME87oU7OPWEZz5x/HcRIbjqKYTEgUA8UL+bpxGTquP7JA9Q==",
   "success": true,
   "projectFilePath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\CaWorkshop.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,8 @@
     "C:\\Users\\lsingh\\.nuget\\packages\\identityserver4.entityframework\\3.0.0\\identityserver4.entityframework.3.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\identityserver4.entityframework.storage\\3.0.0\\identityserver4.entityframework.storage.3.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\identityserver4.storage\\3.0.0\\identityserver4.storage.3.0.0.nupkg.sha512",
+    "C:\\Users\\lsingh\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\lsingh\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\microsoft.aspnetcore.apiauthorization.identityserver\\3.1.6\\microsoft.aspnetcore.apiauthorization.identityserver.3.1.6.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.6\\microsoft.aspnetcore.authentication.jwtbearer.3.1.6.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.0.0-preview9.19424.4\\microsoft.aspnetcore.authentication.openidconnect.3.0.0-preview9.19424.4.nupkg.sha512",
