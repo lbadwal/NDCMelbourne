@@ -34,7 +34,8 @@ namespace CaWorkshop.WebUI
             services.AddControllersWithViews(options =>
                 options.Filters.Add(new ApiExceptionFilter())); services.AddRazorPages();
             // In production, the Angular files will be served from this directory
-            services.AddSpaStaticFiles(configuration =>
+            services.AddSpaStaticFiles(
+                configuration =>
             {
                 configuration.RootPath = "ClientApp/dist";
             });

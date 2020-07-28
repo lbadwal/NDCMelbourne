@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application.UnitTests\\CaWorkshop.Application.UnitTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application.UnitTests\\CaWorkshop.Application.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application.UnitTests\\CaWorkshop.Application.UnitTests.csproj",
+        "projectName": "CaWorkshop.Application.UnitTests",
+        "projectPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application.UnitTests\\CaWorkshop.Application.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\lsingh\\.nuget\\packages\\",
+        "outputPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lsingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\CaWorkshop.Application.csproj": {
+                "projectPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\CaWorkshop.Application.csproj"
+              },
+              "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\CaWorkshop.Infrastructure.csproj": {
+                "projectPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\CaWorkshop.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\CaWorkshop.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\CaWorkshop.Application.csproj",
+        "projectName": "CaWorkshop.Application",
+        "projectPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\CaWorkshop.Application.csproj",
+        "packagesPath": "C:\\Users\\lsingh\\.nuget\\packages\\",
+        "outputPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lsingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Domain\\CaWorkshop.Domain.csproj": {
+                "projectPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Domain\\CaWorkshop.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Domain\\CaWorkshop.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Domain\\CaWorkshop.Domain.csproj",
+        "projectName": "CaWorkshop.Domain",
+        "projectPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Domain\\CaWorkshop.Domain.csproj",
+        "packagesPath": "C:\\Users\\lsingh\\.nuget\\packages\\",
+        "outputPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lsingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\CaWorkshop.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\CaWorkshop.Infrastructure.csproj",
+        "projectName": "CaWorkshop.Infrastructure",
+        "projectPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\CaWorkshop.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lsingh\\.nuget\\packages\\",
+        "outputPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lsingh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\CaWorkshop.Application.csproj": {
+                "projectPath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\CaWorkshop.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
