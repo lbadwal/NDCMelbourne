@@ -4,7 +4,7 @@ using CaWorkshop.Application.Common.Interfaces;
 using CaWorkshop.Domain.Entities;
 using MediatR;
 
-namespace CaWorkshop.Application.TodoLists.Commands
+namespace CaWorkshop.Application.TodoLists.Commands.CreateTodoList
 {
     public class CreateTodoListCommand : IRequest<int>
     {

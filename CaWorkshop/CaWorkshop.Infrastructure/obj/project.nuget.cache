@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RQvcjMk7i4Wp9+9haPpOY/baPcAJXyi8thGeBA+2kOkjkUVC01v4s6lglwwkLJhOl8QQNGdoikKWMaOet567Jw==",
+  "dgSpecHash": "jkKmgnrRl2tnto7n/4n5hymGZUpdZj6K6sGyICrVTxAAbCYsSVRUPOvOQfoh8ys9fwpzkpf8HUEfHHdGqkFvzA==",
   "success": true,
   "projectFilePath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\CaWorkshop.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lsingh\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\lsingh\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
+    "C:\\Users\\lsingh\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.1\\fluentvalidation.dependencyinjectionextensions.9.0.1.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\identityserver4\\3.0.0\\identityserver4.3.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\identityserver4.aspnetidentity\\3.0.0\\identityserver4.aspnetidentity.3.0.0.nupkg.sha512",

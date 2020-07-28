@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0AMFCbLxSdwg7BGehgo7NRJAVklRTSwxWRqEgtVhTD0II6OkRslKKGt6ILy12D7NcduBVZDCfLruL6lhiunIPA==",
+  "dgSpecHash": "vW/Z1Ipjljj5JyoOW6/R96v8ti8g6vQ77TN42ctcTWIsZNLKSyyc4rZBwr0ZVVICCbRpC0oEakvx696SqPszDA==",
   "success": true,
   "projectFilePath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Application\\CaWorkshop.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lsingh\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\lsingh\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
+    "C:\\Users\\lsingh\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.1\\fluentvalidation.dependencyinjectionextensions.9.0.1.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

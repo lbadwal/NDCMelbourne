@@ -48,6 +48,14 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.0, )"
