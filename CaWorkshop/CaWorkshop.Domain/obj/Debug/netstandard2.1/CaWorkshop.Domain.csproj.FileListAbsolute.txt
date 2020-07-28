@@ -6,3 +6,4 @@ D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Domain\obj\Debug\netst
 D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Domain\obj\Debug\netstandard2.1\CaWorkshop.Domain.csproj.CoreCompileInputs.cache
 D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Domain\obj\Debug\netstandard2.1\CaWorkshop.Domain.dll
 D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Domain\obj\Debug\netstandard2.1\CaWorkshop.Domain.pdb
+D:\Lakhwinder\Projects\NDCMelbourne\CaWorkshop\CaWorkshop.Domain\obj\Debug\netstandard2.1\CaWorkshop.Domain.csprojAssemblyReference.cache

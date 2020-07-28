@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using CaWorkshop.Application.TodoLists.Commands;
-using CaWorkshop.Application.TodoLists.Queries;
+using CaWorkshop.Application.TodoLists.Queries.GetTodoLists;
 
 namespace CaWorkshop.WebUI.Controllers
 {
@@ -22,7 +22,7 @@ namespace CaWorkshop.WebUI.Controllers
 
         // GET: api/TodoLists
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<TodoList>>> GetTodoLists()
+        public async Task<ActionResult<TodosVm>> GetTodoLists()
         {
             return await _mediator.Send(new GetTodoListsQuery());
         }
