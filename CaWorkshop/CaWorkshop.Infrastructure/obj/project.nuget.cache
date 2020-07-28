@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Avvj7q4OdVVjMgRLg5noH2V3jVfm8hWqyzkYa/NME87oU7OPWEZz5x/HcRIbjqKYTEgUA8UL+bpxGTquP7JA9Q==",
+  "dgSpecHash": "RQvcjMk7i4Wp9+9haPpOY/baPcAJXyi8thGeBA+2kOkjkUVC01v4s6lglwwkLJhOl8QQNGdoikKWMaOet567Jw==",
   "success": true,
   "projectFilePath": "D:\\Lakhwinder\\Projects\\NDCMelbourne\\CaWorkshop\\CaWorkshop.Infrastructure\\CaWorkshop.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lsingh\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\lsingh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\identityserver4\\3.0.0\\identityserver4.3.0.0.nupkg.sha512",
     "C:\\Users\\lsingh\\.nuget\\packages\\identityserver4.aspnetidentity\\3.0.0\\identityserver4.aspnetidentity.3.0.0.nupkg.sha512",
