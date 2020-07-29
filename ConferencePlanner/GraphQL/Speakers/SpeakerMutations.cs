@@ -2,10 +2,12 @@
 using GraphQL.Data;
 using GraphQL.Extensions;
 using HotChocolate;
+using HotChocolate.Types;
 
-namespace GraphQL
+namespace GraphQL.Speakers
 {
-    public class Mutation
+    [ExtendObjectType(Name = "Mutation")]
+    public class SpeakerMutations
     {
         [UseApplicationDbContext]
         public async Task<AddSpeakerPayload> AddSpeakerAsync(

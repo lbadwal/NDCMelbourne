@@ -1,5 +1,6 @@
 using GraphQL.Data;
 using GraphQL.DataLoader;
+using GraphQL.Speakers;
 using GraphQL.Types;
 using HotChocolate;
 using HotChocolate.AspNetCore;
@@ -25,8 +26,10 @@ namespace GraphQL
             services.AddGraphQL(
                 SchemaBuilder.New()
                     .AddQueryType<Query>()
-                    .AddMutationType<Mutation>()
-                    .AddType<SpeakerType>());
+                    .AddMutationType(d => d.Name("Mutation"))
+                        .AddType<SpeakerMutations>()
+                    .AddType<SpeakerType>()
+                    .EnableRelaySupport());
 
 
         }
